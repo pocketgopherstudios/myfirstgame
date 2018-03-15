@@ -1,3 +1,6 @@
+
+#MUST USE A MAC BOOK PRO FOR ALL PUSHING/PULLING!
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
